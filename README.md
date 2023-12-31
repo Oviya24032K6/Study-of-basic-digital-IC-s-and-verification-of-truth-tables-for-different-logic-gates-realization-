@@ -1,13 +1,15 @@
 # Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
  AIM:
+ 
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
 Equipments Required:
 Hardware – PCs, Cyclone II , USB flasher
 Software – Quartus prime
-Theory
-Introduction
+
 Logic gates are the basic building blocks of any digital system. Logic gates are electronic circuits having one or more than one input and only one output. The relationship between the input and the output is based on a certain logic. Based on this, logic gates are named as
+# DEVELOPED BY : OVIYA P
+# REG NUMBER: 212223110033
 
 AND gate
 OR gate
@@ -61,8 +63,7 @@ Program:
 /*
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
 Developed by: OVIYA P
-RegisterNumber:  23013207
-
+RegisterNumber:  212223110033
 */
 ## CODE
 
